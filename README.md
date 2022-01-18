@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=telzhou618)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hello ~ 👋
+
+- 🔭 I’m currently working on Java and Python Web development. 
+
+- 🌱 Welcome to my home page ~
 
 <!--
 **telzhou618/telzhou618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
