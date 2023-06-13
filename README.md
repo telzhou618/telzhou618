@@ -1,7 +1,5 @@
 ### Hello ~ 👋
 
-- 🔭 I’m currently working on Java and Python Web development. 
-
 - 🌱 Welcome to my home page ~
 
 <!--
