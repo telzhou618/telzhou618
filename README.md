@@ -1,6 +1,4 @@
-### Hello ~ 👋
-
-- 🌱 Welcome to my home page ~
+### Hello ~ 👋 Welcome to my home page ~
 
 <!--
 **telzhou618/telzhou618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
